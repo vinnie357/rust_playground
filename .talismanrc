@@ -1,0 +1,12 @@
+fileignoreconfig:
+- filename: examples/web/Cargo.toml
+  checksum: 9dfefbf7a7879e8959f441f3a4db48164e2062247f04a974a544e727a558b812
+- filename: examples/cli/Cargo.toml
+  checksum: d478839cc9d2718f56ad0d1687a932c940645c4a56f39555ce834f9d6d9bed25
+- filename: examples/cli/readme.md
+  checksum: f1395684a82ef1e403a9daffec71129c158a8c2451a337f42e448c53b8ce6497
+- filename: scripts/set_alias.sh
+  checksum: 75b5f747e291efe744616ef7613685b10637f9931db92fbb2f5a6a820cfc85a7
+- filename: examples/hello/Cargo.toml
+  checksum: b6c47227300d17a735f9eb4fbd568a51e45bfe45f2f7d9b3440663004677654a
+version: "0.0.0"
