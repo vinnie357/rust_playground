@@ -9,4 +9,6 @@ fileignoreconfig:
   checksum: 75b5f747e291efe744616ef7613685b10637f9931db92fbb2f5a6a820cfc85a7
 - filename: examples/hello/Cargo.toml
   checksum: b6c47227300d17a735f9eb4fbd568a51e45bfe45f2f7d9b3440663004677654a
+- filename: examples/tests/Cargo.toml
+  checksum: 2f2b4d7ffae1e65b6c83d80dcfaad6af4335df92b836e60adfe9671ad6b3bbc1
 version: "0.0.0"

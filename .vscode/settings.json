@@ -1,0 +1,8 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "/workspaces/rust_playground/examples/cli/Cargo.toml",
+    "/workspaces/rust_playground/examples/hello/Cargo.toml",
+    "/workspaces/rust_playground/examples/tests/Cargo.toml",
+    "/workspaces/rust_playground/examples/web/Cargo.toml"
+  ]
+}
