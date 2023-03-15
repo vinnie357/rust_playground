@@ -71,7 +71,14 @@ cargo add clap
 ```bash
 #rustc
 #cargo rustc
+## build for local testing larger binary with debug.
+## outputs to target/debug/<name> by default
 cargo build
+###
+## build for sharing much smaller binary
+## outputs to target/release/<name> by default
+cargo build --release
+
 ```
 
 ## build Binary without cargo helpers

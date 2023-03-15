@@ -8,3 +8,7 @@ edition = "2021"
 [dependencies]
 actix-web = "4"
 log = "0.4.17"
+
+[dev-dependencies]
+predicates = "2.1.5"
+assert_cmd = "2.0.8"
